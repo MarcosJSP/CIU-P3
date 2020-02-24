@@ -14,7 +14,7 @@ The project shows planets rotating over a star, there is also a star rotating ov
 
 These are all the possibilities that the project offers:
 
-<img align="center" src="readme assets/short cuts.png" alt="Short cuts"></img>
+<img align="center" src="readme assets/Short Cuts.PNG" alt="Short cuts"></img>
 
 <div align="center"><b>Figure 2 - Short-Cuts</b></div>
 
